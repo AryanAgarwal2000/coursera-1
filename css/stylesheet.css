@@ -23,8 +23,7 @@ div > div > p {
   background-color: #A52A2A;
   width: 90%;
   height: 150px;
-  margin-right: 15px;
-  margin-left: 15px;
+  margin: auto;
   font-family: Helvetica;
   color: white;
 }
