@@ -15,7 +15,7 @@ div > div > p {
   background-color: #A52A2A;
   width: 90%;
   height: 150px;
-  margin-right: auto;
+  margin-right: 15px;
   margin-left: auto;
   font-family: Helvetica;
   color: white;
@@ -113,6 +113,5 @@ div > div > p {
     width: 100%;
   }
 }
-
 
 }
