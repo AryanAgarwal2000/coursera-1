@@ -34,7 +34,9 @@ div > div > p {
   width: 100%;
 }
 
-
+.a{
+  margin: 0px;
+}
 
 /********** Large devices only **********/
 @media (min-width: 992px) {
