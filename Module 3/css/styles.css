@@ -1,0 +1,15 @@
+#bar{
+    background-color: cornsilk;
+}
+#heading{
+    font-size: 1.8em;
+}
+#box{
+    background-color: cadetblue;
+    height: 1000px;
+    width: 90%;
+    margin: 20px auto 20px auto;
+}
+#chick, #beef, #sushi{
+    font-size: 1.5em;
+}
